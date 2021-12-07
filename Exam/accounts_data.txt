@@ -1,0 +1,14 @@
+&login:Logister
+&password:qwerty123
+&name:Danik
+&surname:Nah
+&patronymic:Yes
+&phone_number:994702667424
+
+&login:hello
+&password:lolol176
+&name:Hello
+&surname:Borodin
+&patronymic:Nah
+&phone_number:994
+
